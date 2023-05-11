@@ -5,7 +5,7 @@
         "OM",
         "Omega"
     ],
-    "timestamp": "2021-05-27T20:37:00.:00",
+    "timestamp": "2023-05-11T00:00:00+00:00",
     "tokens": [
         {
             "chainId": 816,
@@ -70,9 +70,6 @@
             "symbol": "OP",
             "decimals": 18,
             "logoURI": "https://cryptologos.cc/logos/optimism-ethereum-op-logo.svg"
-        },
-        {
-
         }
     ],
     "version": {
