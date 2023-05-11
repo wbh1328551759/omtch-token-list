@@ -1,0 +1,83 @@
+{
+    "name": "Omega Testnet List",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
+    "keywords": [
+        "OM",
+        "Omega"
+    ],
+    "timestamp": "2021-05-27T20:37:00.:00",
+    "tokens": [
+        {
+            "chainId": 816,
+            "address": "0x605bcfec7e995abd2666100212c1f3909d9b5730",
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+        },
+        {
+            "chainId": 816,
+            "address": "0x00176af76fee874b96aa19cf641dfee4e27ba5da",
+            "name": "BNB",
+            "symbol": "BNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bnbt/info/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0xbc183140d9fceea1b06a4cc20dfc6a97937ff0dc",
+            "name": "BUSD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0xdc95611045ac2e31fe699f401c7a0fad4a40e8b8",
+            "name": "MATIC",
+            "symbol": "MATIC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0xF52a13af4Ff4972630CdF2fa3382D12cF43078d3",
+            "name": "UNI",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0x01bdcf41db44c1f92acbbd016f56c1593aab1258",
+            "name": "Wrapped OMN",
+            "symbol": "WOMN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0x43467bb4b6d78f86c6fc94b63c15e9df67497c17",
+            "name": "ARB",
+            "symbol": "ARB",
+            "decimals": 18,
+            "logoURI": "https://arbitrum.foundation/logo.png"
+        },
+        {
+            "chainId": 816,
+            "address": "0xbb976f5375b631f74340f3e503244e7bc296e502",
+            "name": "OP",
+            "symbol": "OP",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/optimism-ethereum-op-logo.svg"
+        },
+        {
+
+        }
+    ],
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    }
+}
