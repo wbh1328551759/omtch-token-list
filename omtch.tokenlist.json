@@ -13,7 +13,7 @@
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+            "logoURI": "https://raw.githubusercontent.com/wbh1328551759/omtch-token-list/main/assets/USDT.svg"
         },
         {
             "chainId": 816,
@@ -21,7 +21,7 @@
             "name": "BNB",
             "symbol": "BNB",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bnbt/info/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/wbh1328551759/omtch-token-list/main/assets/BNB.svg"
         },
         {
             "chainId": 816,
@@ -29,7 +29,7 @@
             "name": "BUSD",
             "symbol": "BUSD",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/wbh1328551759/omtch-token-list/main/assets/BUSD.svg"
         },
         {
             "chainId": 816,
@@ -37,7 +37,7 @@
             "name": "MATIC",
             "symbol": "MATIC",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/wbh1328551759/omtch-token-list/main/assets/MATIC.svg"
         },
         {
             "chainId": 816,
