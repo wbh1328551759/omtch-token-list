@@ -1,6 +1,6 @@
 {
     "name": "Omega Testnet List",
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
+    "logoURI": "https://i.imgur.com/3rhcaZF.png",
     "keywords": [
         "OM",
         "Omega"
@@ -53,7 +53,7 @@
             "name": "Wrapped OMN",
             "symbol": "WOMN",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+            "logoURI": "https://i.imgur.com/3rhcaZF.png"
         },
         {
             "chainId": 816,
