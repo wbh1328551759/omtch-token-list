@@ -1,0 +1,16 @@
+{
+    "name": "Omega Mainnet List",
+    "logoURI": "https://i.imgur.com/3rhcaZF.png",
+    "keywords": [
+        "OM",
+        "Omega"
+    ],
+    "timestamp": "2023-05-11T00:00:00+00:00",
+    "tokens": [
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    }
+}
